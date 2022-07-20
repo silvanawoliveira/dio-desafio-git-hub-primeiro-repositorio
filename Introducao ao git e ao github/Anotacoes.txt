@@ -4,3 +4,7 @@ https://git-scm.com/downloads
 O GitBash é um terminal extendido para otimizar o uso do Git
 
 Muito grata a Dio e F1rst por essa oportunidade
+
+Git add .
+Git commit -m "descrição"
+Git push origin main
